@@ -153,27 +153,3 @@
 //  var message = " My  birthyear is  " + birthYear;
 //  alert(message);
 
-
-
-
-
-
-
-
-
-
-
-
-           
-        
-
- 
-
-
-
-
-
-
-
-
-
